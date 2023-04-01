@@ -7,10 +7,15 @@ Python 3.x
 Binance API key and secret
 ## Installation
 Clone this repository: git clone https://github.com/ShAmoNiA/trading-system.git
+
 Install required packages: pip install -r requirements.txt
+
 Set API key and secret as environment variables:
+
 Windows: setx BINANCE_API_KEY "your_api_key" and setx BINANCE_SECRET_KEY "your_secret_key"
+
 Linux/Mac: export BINANCE_API_KEY="your_api_key" and export BINANCE_SECRET_KEY="your_secret_key"
+
 ## Usage
 Open a terminal and navigate to the project directory.
 Run the script:
